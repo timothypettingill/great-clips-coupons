@@ -3,14 +3,12 @@ import sys
 import time
 from argparse import ArgumentParser
 from pathlib import Path
-from typing import Literal
 from urllib.parse import unquote, parse_qs, urlparse
 from playwright.sync_api import sync_playwright, Page
 
 
 PROJECT_DIRECTORY = Path(__file__).resolve().parent.parent
 DATA_DIRECTORY = PROJECT_DIRECTORY.joinpath("data")
-LoggingLevel = Literal["NOTSET", "DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"]
 
 
 def set_up_logging(is_debug: bool) -> None:
