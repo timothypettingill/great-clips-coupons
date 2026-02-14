@@ -69,7 +69,7 @@ def save_coupon_urls(urls: list[str]) -> None:
 def main() -> None:
     _start = time.perf_counter()
 
-    parser = ArgumentParser(description=f"{Path(__file__).name} script")
+    parser = ArgumentParser(description=f"{Path(__file__).name} script.")
     parser.add_argument(
         "--debug",
         action="store_true",
