@@ -3,8 +3,9 @@ import logging
 import re
 import sys
 from argparse import ArgumentParser
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
+from pydantic import TypeAdapter
 import time
 
 from crawlee import ConcurrencySettings
@@ -105,7 +106,16 @@ async def main() -> None:
     )
     urls_to_crawl = load_coupon_urls()
     await crawler.run(urls_to_crawl)
-    await crawler.export_data(DATA_DIRECTORY.joinpath("coupon_data.json"), indent=4)
+
+    dataset = await crawler.get_dataset()
+    dataset_items = await dataset.list_items()
+    metadata = {
+        "generated_at": datetime.now(timezone.utc),
+        "total_count": len(dataset_items),
+    }
+    data = {"metadata": metadata, "data": dataset_items}
+    with open(DATA_DIRECTORY.joinpath("coupon_data.json"), "wb") as f:
+        f.write(TypeAdapter(dict).dump_json(data, indent=4))
 
     _end = time.perf_counter()
     logging.info(
