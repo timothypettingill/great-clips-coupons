@@ -3,7 +3,7 @@ import logging
 import re
 import sys
 from argparse import ArgumentParser
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 import time
 
@@ -64,7 +64,7 @@ async def default_handler(context: PlaywrightCrawlingContext) -> None:
     expiration_date = None
     if match := re.search(r"\d{2}/\d{2}/\d{4}", terms_and_conditions):
         date_string = match[0]
-        expiration_date = datetime.strptime(date_string, "%m/%d/%Y").date().isoformat()
+        expiration_date = datetime.strptime(date_string, "%m/%d/%Y").date()
 
     data = {
         "url": context.request.url,
@@ -73,7 +73,10 @@ async def default_handler(context: PlaywrightCrawlingContext) -> None:
         "description": description,
         "terms_and_conditions": terms_and_conditions,
     }
-    await context.push_data(data)
+
+    # Only keep active coupons
+    if expiration_date > date.today():
+        await context.push_data(data)
 
 
 async def main() -> None:
