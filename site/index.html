@@ -26,11 +26,26 @@
           isLoading: true,
           error: null,
           showUSOnly: false,
+          searchTerm: '',
           get filteredCoupons() {
-              if (!this.showUSOnly) return this.coupons;
-              return this.coupons.filter(coupon => 
-                  coupon.description && coupon.description.toLowerCase().includes('participating us area great clips salons')
-              );
+              let results = this.coupons;
+              
+              if (this.showUSOnly) {
+                  results = results.filter(coupon => 
+                      coupon.description && coupon.description.toLowerCase().includes('participating us area great clips salons')
+                  );
+              }
+              
+              if (this.searchTerm.trim()) {
+                  const term = this.searchTerm.toLowerCase();
+                  results = results.filter(coupon => {
+                      const description = coupon.description ? coupon.description.toLowerCase() : '';
+                      const termsAndConditions = coupon.terms_and_conditions ? coupon.terms_and_conditions.toLowerCase() : '';
+                      return description.includes(term) || termsAndConditions.includes(term);
+                  });
+              }
+              
+              return results;
           },
           async init() {
               try {
@@ -74,12 +89,21 @@
             </p>
         </div>
 
-        <div x-show="!isLoading && !error" class="max-w-4xl mx-auto mb-6">
+        <div x-show="!isLoading && !error" class="max-w-4xl mx-auto mb-6 space-y-4">
+            <div class="relative">
+                <input type="text" x-model="searchTerm" placeholder="Search coupons by location (e.g. Fresno)..."
+                    class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand focus:border-transparent text-sm">
+                <svg x-show="searchTerm" @click="searchTerm = ''" xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 absolute right-3 top-2.5 text-gray-400 cursor-pointer hover:text-gray-600"
+                    fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+            </div>
             <label class="flex items-center gap-3 cursor-pointer">
                 <input type="checkbox" x-model="showUSOnly"
                     class="w-4 h-4 text-brand rounded border-gray-300 focus:ring-brand">
-                <span class="text-sm font-medium text-gray-700">Show coupons that are valid at any participating Great
-                    Clips salon in the United States</span>
+                <span class="text-sm font-medium text-gray-700">Only show coupons that are valid at all salons in the
+                    US.</span>
             </label>
         </div>
 
@@ -104,33 +128,25 @@
                 <div
                     class="bg-white shadow-sm overflow-hidden sm:rounded-lg border border-gray-200 hover:shadow-md transition-shadow duration-300">
 
-                    <div
-                        class="px-4 py-5 sm:px-6 bg-brand/5 border-b border-gray-200 flex justify-between items-center gap-4">
-                        <div class="flex-1">
-                            <h3 class="text-xl font-bold text-brand-dark">
-                                <a :href="coupon.url" target="_blank"
-                                    class="hover:underline flex items-center gap-2 group">
-                                    <span x-text="coupon.url"></span>
-                                    <svg xmlns="http://www.w3.org/2000/svg"
-                                        class="h-5 w-5 text-brand group-hover:text-brand-dark transition-colors"
-                                        fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                                    </svg>
-                                </a>
-                            </h3>
-                        </div>
-                        <span
-                            class="inline-flex items-center rounded-full bg-brand-light px-4 py-2 text-sm font-semibold text-white whitespace-nowrap"
-                            x-text="coupon.price">
-                        </span>
+                    <div class="px-4 py-5 sm:px-6 bg-brand/5 border-b border-gray-200">
+                        <h3 class="text-xl font-bold text-brand-dark">
+                            <a :href="coupon.url" target="_blank" class="hover:underline flex items-center gap-2 group">
+                                <span x-text="'Offer ' + coupon.url.split('/').pop()"></span>
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                    class="h-5 w-5 text-brand group-hover:text-brand-dark transition-colors" fill="none"
+                                    viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                                </svg>
+                            </a>
+                        </h3>
                     </div>
 
                     <div class="border-t border-gray-200 px-4 py-5 sm:p-0">
                         <dl class="sm:divide-y sm:divide-gray-200">
 
                             <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                                <dt class="text-sm font-medium text-gray-500">
+                                <dt class="text-sm font-bold text-gray-800">
                                     Price
                                 </dt>
                                 <dd class="mt-1 text-sm font-semibold text-brand sm:mt-0 sm:col-span-2"
@@ -138,8 +154,8 @@
                                 </dd>
                             </div>
 
-                            <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-gray-50">
-                                <dt class="text-sm font-medium text-gray-500">
+                            <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+                                <dt class="text-sm font-bold text-gray-800">
                                     Expires On
                                 </dt>
                                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2">
@@ -148,7 +164,7 @@
                             </div>
 
                             <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-                                <dt class="text-sm font-medium text-gray-500">
+                                <dt class="text-sm font-bold text-gray-800">
                                     Description
                                 </dt>
                                 <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
@@ -156,11 +172,11 @@
                                 </dd>
                             </div>
 
-                            <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-gray-50">
-                                <dt class="text-sm font-medium text-gray-500">
+                            <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+                                <dt class="text-sm font-bold text-gray-800">
                                     Terms & Conditions
                                 </dt>
-                                <dd class="mt-1 text-xs text-gray-500 sm:mt-0 sm:col-span-2 italic"
+                                <dd class="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
                                     x-text="coupon.terms_and_conditions">
                                 </dd>
                             </div>
