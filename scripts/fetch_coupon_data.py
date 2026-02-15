@@ -108,6 +108,11 @@ async def main() -> None:
         max_concurrency=10,
     )
     crawler = PlaywrightCrawler(
+        browser_launch_options={
+            "args": [
+                "--no-sandbox",
+            ],
+        },
         browser_type="chromium",
         concurrency_settings=concurrency_settings,
         request_handler=router,
