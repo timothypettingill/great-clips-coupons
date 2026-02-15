@@ -111,6 +111,7 @@ async def main() -> None:
         browser_launch_options={
             "args": [
                 "--no-sandbox",
+                "--disable-setuid-sandbox",
             ],
         },
         browser_type="chromium",
