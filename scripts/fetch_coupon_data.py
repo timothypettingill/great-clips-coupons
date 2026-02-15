@@ -1,11 +1,11 @@
 import asyncio
+import json
 import logging
 import re
 import sys
 from argparse import ArgumentParser
 from datetime import date, datetime, timezone
 from pathlib import Path
-from pydantic import TypeAdapter
 import time
 
 from crawlee import ConcurrencySettings
@@ -17,6 +17,15 @@ from crawlee.storage_clients import MemoryStorageClient
 PROJECT_DIRECTORY = Path(__file__).resolve().parent.parent
 DATA_DIRECTORY = PROJECT_DIRECTORY.joinpath("data")
 router = Router[PlaywrightCrawlingContext]()
+
+
+class DateTimeEncoder(json.JSONEncoder):
+    """Custom JSON encoder that handles datetime objects."""
+
+    def default(self, obj):
+        if isinstance(obj, (datetime, date)):
+            return obj.isoformat()
+        return super().default(obj)
 
 
 def set_up_logging(is_debug: bool) -> None:
@@ -114,8 +123,8 @@ async def main() -> None:
         "total_count": len(dataset_items),
     }
     data = {"metadata": metadata, "data": dataset_items}
-    with open(DATA_DIRECTORY.joinpath("coupon_data.json"), "wb") as f:
-        f.write(TypeAdapter(dict).dump_json(data, indent=4))
+    with open(DATA_DIRECTORY.joinpath("coupon_data.json"), "w") as f:
+        json.dump(data, f, cls=DateTimeEncoder, indent=4)
 
     _end = time.perf_counter()
     logging.info(
