@@ -1,92 +1,36 @@
 {
     "metadata": {
-        "generated_at": "2026-02-16T03:22:35.226396+00:00",
-        "total_count": 12
+        "generated_at": "2026-02-17T03:16:42.839888+00:00",
+        "total_count": 4
     },
     "data": [
         {
-            "url": "https://offers.greatclips.com/Ao59KZQ",
-            "price": "$14.99",
-            "expriation_date": "2026-03-06",
-            "description": "Get a great haircut for $14.99  only at participating LaCrosse-Eau Claire area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating LaCrosse-Eau Claire area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/7GqMiDg",
-            "price": "$9.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $9.99  only at participating Wilmington area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Wilmington area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/3VHPb44",
-            "price": "$9.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $9.99  only at participating Richmond area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Richmond area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/851N6SV",
-            "price": "$10.99",
-            "expriation_date": "2026-03-07",
-            "description": "Get a great haircut for $10.99 at Great Clips Poplar/Kirby at 1811 Kirby Parkway in Memphis. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Poplar/Kirby at 1811 Kirby Parkway in Memphis, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/07/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/5WVbdBr",
-            "price": "$7.99",
-            "expriation_date": "2026-03-03",
-            "description": "Get a great haircut for $7.99 at Great Clips Ave B & 24th Str at 2383 W 24th St in Yuma. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Ave B & 24th Str at 2383 W 24th St in Yuma, AZ. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/03/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/vdRmGvo",
-            "price": "$9.99",
-            "expriation_date": "2026-03-19",
-            "description": "Get a great haircut for $9.99 at Great Clips Marketplace at Carnes Crossroads at 2820 North Main Street in Summerville. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Marketplace at Carnes Crossroads at 2820 North Main Street in Summerville, SC. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/19/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/o5aXidu",
-            "price": "$9.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $9.99  only at participating Hartford, N. Haven & N. London area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
-            "terms_and_conditions": "Valid  only at participating Hartford, N. Haven & N. London area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
-        },
-        {
-            "url": "https://offers.greatclips.com/IJ4CKXc",
-            "price": "$10.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $10.99  only at participating Casper area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Casper area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/dYTA2vr",
-            "price": "$6.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $6.99 at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Harrison Food City at 8618 Tennessee Hwy 58 in Harrison, TN. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/tA6Fliq",
+            "url": "https://offers.greatclips.com/q3BQE3V",
             "price": "$12.99",
-            "expriation_date": "2026-03-07",
-            "description": "Get a great haircut for $12.99 at Great Clips Green Valley Marketplace at 2201 Francisco Drive in El Dorado Hills. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Green Valley Marketplace at 2201 Francisco Drive in El Dorado Hills, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/07/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "expriation_date": "2026-03-06",
+            "description": "Get a great haircut for $12.99  only at participating Twin Falls area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Twin Falls area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/xqTb01a",
-            "price": "$8.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $8.99  only at participating Tyler-Longview area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
-            "terms_and_conditions": "Valid  only at participating Tyler-Longview area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
+            "url": "https://offers.greatclips.com/L72vETv",
+            "price": "$12.99",
+            "expriation_date": "2026-03-13",
+            "description": "Get a great haircut for $12.99 at Great Clips Newland Center at 19670 Beach Blvd in Huntington Beach. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Newland Center at 19670 Beach Blvd in Huntington Beach, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/13/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/xz28zQU",
+            "url": "https://offers.greatclips.com/s8wcX2O",
             "price": "$9.99",
-            "expriation_date": "2026-02-27",
-            "description": "Get a great haircut for $9.99  only at participating San Antonio area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating San Antonio area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "expriation_date": "2026-03-06",
+            "description": "Get a great haircut for $9.99  only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/oAYiGfQ",
+            "price": "$8.99",
+            "expriation_date": "2026-03-06",
+            "description": "Get a great haircut for $8.99  only at participating Wichita Falls & Lawton area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Wichita Falls & Lawton area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
