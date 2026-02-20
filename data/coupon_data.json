@@ -1,22 +1,15 @@
 {
     "metadata": {
-        "generated_at": "2026-02-19T03:18:52.855983+00:00",
+        "generated_at": "2026-02-20T03:13:44.898130+00:00",
         "total_count": 5
     },
     "data": [
         {
-            "url": "https://offers.greatclips.com/oAYiGfQ",
-            "price": "$8.99",
-            "expriation_date": "2026-03-06",
-            "description": "Get a great haircut for $8.99  only at participating Wichita Falls & Lawton area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Wichita Falls & Lawton area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/s8wcX2O",
-            "price": "$9.99",
-            "expriation_date": "2026-03-06",
-            "description": "Get a great haircut for $9.99  only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "url": "https://offers.greatclips.com/SX14kDH",
+            "price": "$3.99",
+            "expriation_date": "2026-03-27",
+            "description": "Get a great haircut for $3.99 at Great Clips Rosemont Commons at 3750 W MARKET ST in Fairlawn. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Rosemont Commons at 3750 W MARKET ST in Fairlawn, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/27/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/9mDYNBc",
@@ -26,6 +19,13 @@
             "terms_and_conditions": "Valid at Great Clips Whisper Village at 9075 Howell St in Arvada, CO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/18/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
+            "url": "https://offers.greatclips.com/oAYiGfQ",
+            "price": "$8.99",
+            "expriation_date": "2026-03-06",
+            "description": "Get a great haircut for $8.99  only at participating Wichita Falls & Lawton area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Wichita Falls & Lawton area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
             "url": "https://offers.greatclips.com/2a3MR4x",
             "price": "$9.99",
             "expriation_date": "2026-02-27",
@@ -33,11 +33,11 @@
             "terms_and_conditions": "Valid only at participating Eastern Carolina area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 02/27/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/SX14kDH",
-            "price": "$3.99",
-            "expriation_date": "2026-03-27",
-            "description": "Get a great haircut for $3.99 at Great Clips Rosemont Commons at 3750 W MARKET ST in Fairlawn. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Rosemont Commons at 3750 W MARKET ST in Fairlawn, OH. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/27/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "url": "https://offers.greatclips.com/s8wcX2O",
+            "price": "$9.99",
+            "expriation_date": "2026-03-06",
+            "description": "Get a great haircut for $9.99  only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 03/06/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
