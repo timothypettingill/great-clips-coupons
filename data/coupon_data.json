@@ -1,16 +1,9 @@
 {
     "metadata": {
-        "generated_at": "2026-03-20T03:12:34.458698+00:00",
+        "generated_at": "2026-03-21T03:04:40.704789+00:00",
         "total_count": 3
     },
     "data": [
-        {
-            "url": "https://offers.greatclips.com/P2CsDCR",
-            "price": "$12.99",
-            "expriation_date": "2026-04-11",
-            "description": "Get a great haircut for $12.99 at Great Clips Triple Crown Retail Center at 450 Richwood Rd in Walton. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Triple Crown Retail Center at 450 Richwood Rd in Walton, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 04/11/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
         {
             "url": "https://offers.greatclips.com/yi43d3q",
             "price": "$5.99",
@@ -24,6 +17,13 @@
             "expriation_date": "2026-03-30",
             "description": "Get a great haircut for $10.99 at Great Clips North River Ranch at 8727 Fort Hamer Rd in Parrish. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid at Great Clips North River Ranch at 8727 Fort Hamer Rd in Parrish, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 03/30/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/P2CsDCR",
+            "price": "$12.99",
+            "expriation_date": "2026-04-11",
+            "description": "Get a great haircut for $12.99 at Great Clips Triple Crown Retail Center at 450 Richwood Rd in Walton. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Triple Crown Retail Center at 450 Richwood Rd in Walton, KY. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 04/11/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
