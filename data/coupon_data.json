@@ -1,7 +1,22 @@
 {
     "metadata": {
-        "generated_at": "2026-03-27T03:31:45.002178+00:00",
-        "total_count": 0
+        "generated_at": "2026-03-28T03:19:00.340398+00:00",
+        "total_count": 2
     },
-    "data": []
+    "data": [
+        {
+            "url": "https://offers.greatclips.com/4jfze8U",
+            "price": "$5.99",
+            "expriation_date": "2026-05-08",
+            "description": "Get a great haircut for $5.99 at Great Clips Aspen Creek at 18870 Oakmont Dr in Omaha. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Aspen Creek at 18870 Oakmont Dr in Omaha, NE. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 05/08/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/bDB82TI",
+            "price": "$8.99",
+            "expriation_date": "2026-04-24",
+            "description": "Get a great haircut for $8.99 at Great Clips Middletown Commons at 219 Middletown Loop in White Hall. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Middletown Commons at 219 Middletown Loop in White Hall, WV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 04/24/2026. All Great Clips\u00ae salons are independently owned and operated."
+        }
+    ]
 }
