@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "generated_at": "2026-05-10T04:28:19.198643+00:00",
-        "total_count": 6
+        "generated_at": "2026-05-11T04:39:41.057330+00:00",
+        "total_count": 7
     },
     "data": [
         {
-            "url": "https://offers.greatclips.com/I4DgqoI",
-            "price": "$12.99",
-            "expriation_date": "2026-06-12",
-            "description": "Get a great haircut for $12.99 at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 06/12/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "url": "https://offers.greatclips.com/N90n3i1",
+            "price": "$13.99",
+            "expriation_date": "2026-05-29",
+            "description": "Get a great haircut for $13.99  only at participating Minot & Bismarck area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Minot & Bismarck area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/29/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/3W0UkIF",
@@ -19,13 +19,6 @@
             "terms_and_conditions": "Valid only at participating Greater Los Angeles area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/22/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/rqZpMYY",
-            "price": "$13.99",
-            "expriation_date": "2026-05-29",
-            "description": "Get a great haircut for $13.99  only at participating Rapid City area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Rapid City area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/29/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
             "url": "https://offers.greatclips.com/AYROpK6",
             "price": "$12.99",
             "expriation_date": "2026-06-12",
@@ -33,11 +26,25 @@
             "terms_and_conditions": "Valid at Great Clips River City Marketplace at 790 Skymarks Dr in Jacksonville, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 06/12/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/N90n3i1",
+            "url": "https://offers.greatclips.com/0lhpI6A",
+            "price": "$9.99",
+            "expriation_date": "2026-05-29",
+            "description": "Get a great haircut for $9.99  only at participating Greater Triangle area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
+            "terms_and_conditions": "Valid  only at participating Greater Triangle area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/29/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
+        },
+        {
+            "url": "https://offers.greatclips.com/I4DgqoI",
+            "price": "$12.99",
+            "expriation_date": "2026-06-12",
+            "description": "Get a great haircut for $12.99 at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 06/12/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/rqZpMYY",
             "price": "$13.99",
             "expriation_date": "2026-05-29",
-            "description": "Get a great haircut for $13.99  only at participating Minot & Bismarck area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Minot & Bismarck area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/29/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "description": "Get a great haircut for $13.99  only at participating Rapid City area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Rapid City area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 05/29/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/vmn5muT",
