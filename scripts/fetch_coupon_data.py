@@ -76,9 +76,7 @@ async def default_handler(context: PlaywrightCrawlingContext) -> None:
         date_string = match[0]
         expiration_date = datetime.strptime(date_string, "%m/%d/%Y").date()
     if match := re.search(r"within \d+ days", terms_and_conditions):
-        expiration_date = match[0]
-
-
+        expiration_date: str = match[0].captialize()
 
     data = {
         "url": context.request.url,
