@@ -75,6 +75,10 @@ async def default_handler(context: PlaywrightCrawlingContext) -> None:
     if match := re.search(r"\d{2}/\d{2}/\d{4}", terms_and_conditions):
         date_string = match[0]
         expiration_date = datetime.strptime(date_string, "%m/%d/%Y").date()
+    if match := re.search(r"within \d+ days", terms_and_conditions):
+        expiration_date = match[0]
+
+
 
     data = {
         "url": context.request.url,
@@ -84,9 +88,13 @@ async def default_handler(context: PlaywrightCrawlingContext) -> None:
         "terms_and_conditions": terms_and_conditions,
     }
 
-    # Only keep active coupons
-    if expiration_date > date.today():
-        await context.push_data(data)
+    # Only keep active coupons or coupons with no expiration date
+    if isinstance(expiration_date, date):
+        if expiration_date < date.today():
+            return None
+
+    await context.push_data(data)
+
 
 
 async def main() -> None:
