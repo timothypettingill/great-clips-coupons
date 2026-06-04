@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "generated_at": "2026-06-03T05:20:57.039826+00:00",
+        "generated_at": "2026-06-04T05:12:59.957722+00:00",
         "total_count": 7
     },
     "data": [
-        {
-            "url": "https://offers.greatclips.com/Y6VZLY3",
-            "price": null,
-            "expriation_date": "2026-06-26",
-            "description": "Get a great haircut for 50% off  only at participating South OR area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating South OR area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
         {
             "url": "https://offers.greatclips.com/PSBitkT",
             "price": "$10.99",
             "expriation_date": "2026-07-03",
             "description": "Get a great haircut for $10.99  only at Great Clips Tulare Marketplace at 2111 E Prosperity Ave in Tulare.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid only at Great Clips Tulare Marketplace at 2111 E Prosperity Ave in Tulare, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/7Jatjt5",
+            "price": "$9.99",
+            "expriation_date": "2026-07-03",
+            "description": "Get a great haircut for $9.99  only at Great Clips AT&T Plaza at 7110 Rogers Avenue in Fort Smith.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at Great Clips AT&T Plaza at 7110 Rogers Avenue in Fort Smith, AR. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/07TlKna",
@@ -26,13 +26,6 @@
             "terms_and_conditions": "Valid only at participating Gainesville area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/hupjkIv",
-            "price": "$9.99",
-            "expriation_date": "2026-07-03",
-            "description": "Get a great haircut for $9.99  only at participating Idaho Falls & Pocatello area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Idaho Falls & Pocatello area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
             "url": "https://offers.greatclips.com/p4NGSbJ",
             "price": null,
             "expriation_date": "2026-06-26",
@@ -40,11 +33,11 @@
             "terms_and_conditions": "Valid only at participating Fargo, Fergus Falls & Moorhead area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/ciVW9RN",
-            "price": null,
-            "expriation_date": "2026-06-26",
-            "description": "Get a great haircut for 50% off  only at participating Topeka & surrounding area area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Topeka & surrounding area area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "url": "https://offers.greatclips.com/hupjkIv",
+            "price": "$9.99",
+            "expriation_date": "2026-07-03",
+            "description": "Get a great haircut for $9.99  only at participating Idaho Falls & Pocatello area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Idaho Falls & Pocatello area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/ngkzotQ",
@@ -52,6 +45,13 @@
             "expriation_date": "2026-06-26",
             "description": "Get a great haircut for 50% off  only at participating Tallahassee, Thomasville & Valdosta area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid only at participating Tallahassee, Thomasville & Valdosta area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/Y6VZLY3",
+            "price": null,
+            "expriation_date": "2026-06-26",
+            "description": "Get a great haircut for 50% off  only at participating South OR area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating South OR area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
