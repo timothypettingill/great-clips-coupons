@@ -1,9 +1,16 @@
 {
     "metadata": {
-        "generated_at": "2026-06-12T05:09:54.330380+00:00",
-        "total_count": 7
+        "generated_at": "2026-06-13T04:54:51.007629+00:00",
+        "total_count": 5
     },
     "data": [
+        {
+            "url": "https://offers.greatclips.com/CQjdnt0",
+            "price": "$8.99",
+            "expriation_date": "2026-07-03",
+            "description": "Get a great haircut for $8.99  only at Great Clips Palencia Commons, Shoppes at Beachwalk at in.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at Great Clips Palencia Commons, Shoppes at Beachwalk at  in ,. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
         {
             "url": "https://offers.greatclips.com/0uqp4Xv",
             "price": "$7.99",
@@ -12,11 +19,11 @@
             "terms_and_conditions": "Valid only at participating Yuma area salons area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/CQjdnt0",
-            "price": "$8.99",
-            "expriation_date": "2026-07-03",
-            "description": "Get a great haircut for $8.99  only at Great Clips Palencia Commons, Shoppes at Beachwalk at in.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at Great Clips Palencia Commons, Shoppes at Beachwalk at  in ,. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
+            "url": "https://offers.greatclips.com/WVWKhhx",
+            "price": "$10.99",
+            "expriation_date": "2026-07-07",
+            "description": "Get a great haircut for $10.99 at Great Clips Rouses Center at 1701 Mississippi 43 North in Picayune. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Rouses Center at 1701 Mississippi 43 North in Picayune, MS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/07/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
             "url": "https://offers.greatclips.com/4SYoObh",
@@ -26,32 +33,11 @@
             "terms_and_conditions": "Valid only at Great Clips Bay Forest at 1926 El Dorado Boulevard in Houston, TX. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
         },
         {
-            "url": "https://offers.greatclips.com/V5oPMQt",
-            "price": "$12.99",
-            "expriation_date": "2026-07-03",
-            "description": "Get a great haircut for $12.99 at Great Clips Newland Center at 19670 Beach Blvd in Huntington Beach. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Newland Center at 19670 Beach Blvd in Huntington Beach, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/03/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
             "url": "https://offers.greatclips.com/UHxxkQW",
             "price": "$9.99",
             "expriation_date": "2026-06-26",
             "description": "Get a great haircut for $9.99  only at participating Palm Springs area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid only at participating Palm Springs area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/jnnkC3X",
-            "price": "$12.99",
-            "expriation_date": "2026-06-26",
-            "description": "Get a great haircut for $12.99  only at participating Portland area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
-            "terms_and_conditions": "Valid  only at participating Portland area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 06/26/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
-        },
-        {
-            "url": "https://offers.greatclips.com/WVWKhhx",
-            "price": "$10.99",
-            "expriation_date": "2026-07-07",
-            "description": "Get a great haircut for $10.99 at Great Clips Rouses Center at 1701 Mississippi 43 North in Picayune. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid at Great Clips Rouses Center at 1701 Mississippi 43 North in Picayune, MS. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 07/07/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
