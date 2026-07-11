@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "generated_at": "2026-07-10T04:27:32.521391+00:00",
+        "generated_at": "2026-07-11T03:46:47.954277+00:00",
         "total_count": 2
     },
     "data": [
-        {
-            "url": "https://offers.greatclips.com/5RUIfYA",
-            "price": "$9.99",
-            "expriation_date": "2026-08-07",
-            "description": "Get a great haircut for $9.99  only at participating Corpus Christi area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
-            "terms_and_conditions": "Valid only at participating Corpus Christi area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/07/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
         {
             "url": "https://offers.greatclips.com/hwWLU3h",
             "price": "$17.99",
             "expriation_date": "2026-07-24",
             "description": "Get a great haircut for $17.99  only at participating Greater Los Angeles area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
             "terms_and_conditions": "Valid  only at participating Greater Los Angeles area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 07/24/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
+        },
+        {
+            "url": "https://offers.greatclips.com/5RUIfYA",
+            "price": "$9.99",
+            "expriation_date": "2026-08-07",
+            "description": "Get a great haircut for $9.99  only at participating Corpus Christi area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid only at participating Corpus Christi area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/07/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
