@@ -1,9 +1,16 @@
 {
     "metadata": {
-        "generated_at": "2026-07-23T03:49:00.190501+00:00",
+        "generated_at": "2026-07-24T03:49:00.945056+00:00",
         "total_count": 4
     },
     "data": [
+        {
+            "url": "https://offers.greatclips.com/GHYlzqZ",
+            "price": "$12.99",
+            "expriation_date": "2026-08-28",
+            "description": "Get a great haircut for $12.99  only at participating Detroit area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
+            "terms_and_conditions": "Valid  only at participating Detroit area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
+        },
         {
             "url": "https://offers.greatclips.com/MwFEMRy",
             "price": "$9.99",
@@ -24,13 +31,6 @@
             "expriation_date": "2026-08-21",
             "description": "Get a great haircut for $10.99  only at participating Houston area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid only at participating Houston area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/21/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/GHYlzqZ",
-            "price": "$12.99",
-            "expriation_date": "2026-08-28",
-            "description": "Get a great haircut for $12.99  only at participating Detroit area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
-            "terms_and_conditions": "Valid  only at participating Detroit area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
         }
     ]
 }
