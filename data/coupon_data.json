@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "generated_at": "2026-07-26T04:02:33.997069+00:00",
+        "generated_at": "2026-07-27T04:07:54.565475+00:00",
         "total_count": 4
     },
     "data": [
@@ -10,6 +10,13 @@
             "expriation_date": "2026-08-21",
             "description": "Get a great haircut for $14.99 at Great Clips Old Ranch Town Center at 12340 Seal Beach Blvd in Seal Beach. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid at Great Clips Old Ranch Town Center at 12340 Seal Beach Blvd in Seal Beach, CA. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 08/21/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/MwFEMRy",
+            "price": "$9.99",
+            "expriation_date": "2026-08-28",
+            "description": "Get a great student haircut for $9.99  only at participating Indianapolis area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
+            "terms_and_conditions": "Valid  only at participating Indianapolis area Great Clips salons . Not valid with any other offer. Valid for students. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
         },
         {
             "url": "https://offers.greatclips.com/GHYlzqZ",
@@ -24,13 +31,6 @@
             "expriation_date": "2026-08-21",
             "description": "Get a great haircut for $10.99  only at participating Houston area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid only at participating Houston area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/21/2026. All Great Clips\u00ae salons are independently owned and operated."
-        },
-        {
-            "url": "https://offers.greatclips.com/MwFEMRy",
-            "price": "$9.99",
-            "expriation_date": "2026-08-28",
-            "description": "Get a great student haircut for $9.99  only at participating Indianapolis area Great Clips salons.  To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.\n",
-            "terms_and_conditions": "Valid  only at participating Indianapolis area Great Clips salons . Not valid with any other offer. Valid for students. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 08/28/2026. All Great Clips\u00ae salons are independently owned and operated.\n"
         }
     ]
 }
