@@ -1,15 +1,36 @@
 {
     "metadata": {
-        "generated_at": "2026-08-22T01:53:34.599892+00:00",
-        "total_count": 1
+        "generated_at": "2026-08-23T02:02:25.853978+00:00",
+        "total_count": 4
     },
     "data": [
+        {
+            "url": "https://offers.greatclips.com/1z8Rqe4",
+            "price": "$10.99",
+            "expriation_date": "2026-09-11",
+            "description": "Get a great haircut for $10.99 at Great Clips Park Central Plaza at 5960 Losee Rd in North Las Vegas. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Park Central Plaza at 5960 Losee Rd in North Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
         {
             "url": "https://offers.greatclips.com/jsLyv5a",
             "price": "$10.99",
             "expriation_date": "2026-09-25",
             "description": "Get a great haircut for $10.99 at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
             "terms_and_conditions": "Valid at Great Clips Shoppes at Mission Trace at 965 State Road 16 in Saint Augustine, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/25/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/LEiWSww",
+            "price": "$10.99",
+            "expriation_date": "2026-09-11",
+            "description": "Get a great haircut for $10.99 at Great Clips Rainbow Springs at 3675 S Rainbow Blvd in Las Vegas. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Rainbow Springs at 3675 S Rainbow Blvd in Las Vegas, NV. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 09/11/2026. All Great Clips\u00ae salons are independently owned and operated."
+        },
+        {
+            "url": "https://offers.greatclips.com/g7lA2f7",
+            "price": "$13.99",
+            "expriation_date": "2026-10-02",
+            "description": "Get a great haircut for $13.99 at Great Clips Celebration Pointe at 1709 Future Way in Celebration. To redeem the offer now, click \u201cRedeem Now\u201d and present this offer on your phone at the time of payment. To redeem the offer later, just enter your email and click \u201cSave for Later\u201d.",
+            "terms_and_conditions": "Valid at Great Clips Celebration Pointe at 1709 Future Way in Celebration, FL. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated."
         }
     ]
 }
